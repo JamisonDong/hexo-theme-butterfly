@@ -92,10 +92,10 @@ katex:
 # Favicon（網站圖標）
 favicon: /img/favicon.png
 
-# Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
-  effect: false
+  img: /img/avatar.gif
+  effect: true
+
 
 # Disable all banner image
 disable_top_img: false
